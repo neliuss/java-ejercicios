@@ -29,8 +29,6 @@ public class mainEj1 {
          System.out.println(med1.getColegiado());
         System.out.println(med1.toString());
         
-        
-        
     }
     
 }
