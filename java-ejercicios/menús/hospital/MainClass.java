@@ -2,7 +2,7 @@ package hospital;
 
 /**
  *
- * @author dawa14
+ * @author @alex
  */
 public class MainClass {
     
