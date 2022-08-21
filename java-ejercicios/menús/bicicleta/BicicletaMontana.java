@@ -1,25 +1,33 @@
-package Pack_Bicicleta;
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package bicicleta;
+
 /**
  *
- * @author dawa51
+ * @author dawa19
  */
-public class BicicletaMontana extends Bicicleta{
+public class BicicletaMontana extends Bicicleta {
     protected int suspension;
     
-    public void cambiarSuspension(int susp){
-        suspension=susp;
+    public BicicletaMontana (int velocidad,int plato,int pinon){
+        super(velocidad,plato,pinon);
     }
-    //Primeira parte exercicio 5.
-    public BicicletaMontana(int velocidadActual, int platoActual,
-            int pinhonActual, int suspension){
-        super(velocidadActual, platoActual, pinhonActual);
+
+    public int getSuspension(){
+        return suspension;
+    }
+    public void setSuspension(int suspension ){
+         this.suspension=suspension;
+    }
+    
+    public void cambiarSuspension(int suspension){
         this.suspension=suspension;
-    }//Fin exercicio 5.
-    @Override
-    public void acelerar() {
-        super.setVelocidadActual(super.getVelocidadActual()*3);
     }
-    public void acelerar2() {
-        super.setVelocidadActual(super.getVelocidadActual()*2);//Non se pode invocar un metodo dun padre!!!Creamos un novo.
-    }//Fin Exercicio 6
+    @Override
+    public void acelerar(){
+        this.velocidadActual=this.velocidadActual*3;
+    }
 }
