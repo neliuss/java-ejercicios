@@ -1,4 +1,4 @@
-package B4_Matrices;
+package bloque4_Matrices;
 import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Random;

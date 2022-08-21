@@ -1,4 +1,4 @@
-package B4_Matrices;
+package bloque4_Matrices;
 import java.util.Scanner;
 
 public class Ej3SumaMatrices {
