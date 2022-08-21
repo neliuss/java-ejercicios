@@ -1,4 +1,4 @@
-package Pack_Libro;
+package libro;
 import java.util.Scanner;
 /**
  *

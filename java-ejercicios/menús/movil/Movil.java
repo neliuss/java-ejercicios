@@ -1,4 +1,4 @@
-package mainmovil;
+package movil;
 import java.util.Scanner;
 
 public class Movil {

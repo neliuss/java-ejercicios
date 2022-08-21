@@ -1,4 +1,4 @@
-package Pack_Telefono;
+package telefono;
 /**
  *
  * @author dawa51

@@ -1,4 +1,4 @@
-package GestionEmpleadosInterfaz;
+package gestionEmpleadosInterfaz;
 
 public class Oficial extends Operario {
 

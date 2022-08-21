@@ -1,4 +1,4 @@
-package GestionEmpleadosInterfaz;
+package gestionEmpleadosInterfaz;
 
 import java.util.ArrayList;
 

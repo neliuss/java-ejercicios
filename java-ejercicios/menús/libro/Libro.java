@@ -1,4 +1,4 @@
-package Pack_Libro;
+package libro;
 /**Crear una clase llamada Libro que contenga la información de cada uno de los libros de
 una biblioteca. La clase debe guardar los siguientes atributos: el título del libro, autor,
 número de ejemplares del libro y número de ejemplares prestados.
