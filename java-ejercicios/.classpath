@@ -7,6 +7,9 @@
 	<classpathentry kind="src" path="jSwing"/>
 	<classpathentry kind="src" path="creaListaAlumnosJSwing"/>
 	<classpathentry kind="src" path="t8.Persistencia de objetos"/>
+	<classpathentry kind="src" path="consultaDao"/>
+	<classpathentry kind="src" path="hospitalJSwing"/>
+	<classpathentry kind="src" path="ong_proyecto"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
 		<attributes>
 			<attribute name="module" value="true"/>
