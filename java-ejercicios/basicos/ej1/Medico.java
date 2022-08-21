@@ -1,4 +1,4 @@
-package Ej1;
+package ej1;
 import java.util.ArrayList;
 
 public class Medico {
